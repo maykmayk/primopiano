@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/primopiano/static/css/main.f855e6bc.css",
+    "main.js": "/primopiano/static/js/main.0e9d8f3b.js",
+    "static/js/488.e62df05c.chunk.js": "/primopiano/static/js/488.e62df05c.chunk.js",
+    "static/media/logo.svg": "/primopiano/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/primopiano/index.html",
+    "main.f855e6bc.css.map": "/primopiano/static/css/main.f855e6bc.css.map",
+    "main.0e9d8f3b.js.map": "/primopiano/static/js/main.0e9d8f3b.js.map",
+    "488.e62df05c.chunk.js.map": "/primopiano/static/js/488.e62df05c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0e9d8f3b.js"
+  ]
+}
